@@ -43,10 +43,10 @@
 
 ### **Portfolio**
 
-- *Analisis dishonared by Criomant* – Analysis and game review
-- *Carrot Eater* – Game concept and technical documentation
-- *Pirson* – Concept document for a narrative-based game
-- *Trade Union Disident* – Technical documentation, vision document, and art
+- [*Analisis dishonared by Criomant*](https://docs.google.com/presentation/d/1XPhJ4u_6n9NQoXEsYXGrmZG6Mdxyj9aUOPpp1yjoHXg/edit?usp=sharing) – Analysis and game review
+- [*Carrot Eater*](https://docs.google.com/presentation/d/1uS6NreOaqztQa8h1Aopj1Pa9m8Ekd7zLohB-pGeUtVI/edit?usp=sharing) – Game concept and technical documentation
+- [*Pirson*](https://docs.google.com/presentation/d/1JWmr1RGv4ekDYdB9J8J_JWvEsNyTzmbARzSeWypbCng/edit?usp=sharing) – Concept document for a narrative-based game
+- [*Trade Union Disident*](https://docs.google.com/presentation/d/1wFJP1Ig8n9hoylupvZ7X4BjkVboXS6kGdcjAbRxsHdQ/edit?usp=sharing) – Technical documentation, vision document, and art
 
 ---
 
