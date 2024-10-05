@@ -43,10 +43,14 @@
 
 ### **Portfolio**
 
-- [*Analisis dishonared by Criomant*](https://docs.google.com/presentation/d/1XPhJ4u_6n9NQoXEsYXGrmZG6Mdxyj9aUOPpp1yjoHXg/edit?usp=sharing) – Analysis and game review
-- [*Carrot Eater*](https://docs.google.com/presentation/d/1uS6NreOaqztQa8h1Aopj1Pa9m8Ekd7zLohB-pGeUtVI/edit?usp=sharing) – Game concept and technical documentation
-- [*Pirson*](https://docs.google.com/presentation/d/1JWmr1RGv4ekDYdB9J8J_JWvEsNyTzmbARzSeWypbCng/edit?usp=sharing) – Concept document for a narrative-based game
-- [*Trade Union Disident*](https://docs.google.com/presentation/d/1wFJP1Ig8n9hoylupvZ7X4BjkVboXS6kGdcjAbRxsHdQ/edit?usp=sharing) – Technical documentation, vision document, and art
+- [*Analisis dishonared by Criomant*](https://docs.google.com/presentation/d/1lcQYtisM83ME8EfF-2Gqzz69VqlSe_ces4C3NG_OOD4/edit#slide=id.p) – Analysis and game review
+- [*Carrot Eater*](https://docs.google.com/presentation/d/1DAb1ufpzwikc6DHnolSkrzxh76vr_kxumYWXQQoKziI/edit#slide=id.p) – Game concept and technical documentation
+- [*Pirson*](https://docs.google.com/presentation/d/1DxOTO85KgXrzI_QO_cEfA4pBWaMWkGXr2ojH5aTwtLM/edit#slide=id.gb723aa0862_0_169) – Concept document for a narrative-based game
+- [*Trade Union Disident*](https://docs.google.com/presentation/d/1pNAU3Cya7vV8fPtJ48vowmP77GLHHMWeFZ8vg92nqjs/edit#slide=id.p) – Technical documentation and vision document
+- [*Project Vision Document for TUD*](https://docs.google.com/presentation/d/1I6kguinFNoMPHdZPb1lRkBhXv6PotKXIY9LpA4fpoAk/edit#slide=id.g2126f82cee0_0_521) – Additional concept document for Trade Union Disident
+- [*Trade Union Disident: Art and GIFs*](https://imgur.com/a/2sVdj98) – Collection of artwork and gifs for the project
+- [*Game Documentation Template*](https://docs.google.com/document/u/0/d/1XpfoeuAcq6Qsd-be_o2rvgrLl6JLYz7YONy4wxN5YR0/edit) – Standardized template for game design documentation
+- [*Gameplay Manual for Project TUD*](https://docs.google.com/document/u/0/d/1jaJabvCnDHSiGxFIHuzs9gUg4Y-zL0ttpehcxVQTfo0/edit) – Detailed manual for gameplay mechanics
 
 ---
 
